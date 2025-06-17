@@ -7,18 +7,31 @@
 
 </div>
 
+---
 ## Sobre
 
 <div>
-
-  Sou um desenvolvedor Front-end com experiência na area de desenvovlimento web.
-  <br><br>
-  Sou formado em Analise e desenvolvimento de software ,possuindo alguns certificados tecnicos na area. 
-  <br><br>
-  Minha especialidade é criar sites rápidos.
-  <br><br>
-  Atualmente estou buscando novos desafios e oportunidades na area.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p>
+Sou um desenvolvedor Front-end com experiência em desenvolvimento web.
+<br><br>
+🎓Formado em Análise e Desenvolvimento de Sistemas, com certificações técnicas na área.
+<br><br>
+⚡Minha especialidade é criar sites rápidos, otimizados e com boa performance.
+<br><br>
+🚀Atualmente, estou em busca de novos desafios e oportunidades para crescer como profissional.<br>
   
+  </p>
+    </td>
+    <td align="center" width="50%">
+      
+<img width=400px src="https://github.com/user-attachments/assets/7206e84e-1f9b-4b6b-adf5-a4edb1903553"/>
+   </td>
+  </tr>
+</table>
+
 </div>
 
 <!--
@@ -35,22 +48,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 ## Estatísticas
 
-
-
-
 <div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoArai&show_icons=true&theme=dark)
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArai&hide_progress=true&theme=dark)
-  
+ <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoArai&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArai&layout=compact&theme=dark" />
+</p>
 </div>
 
-  <br>
-  
+---
 ## Hards Skills
   
 <div align="left">
@@ -72,7 +80,6 @@ Here are some ideas to get you started:
   <br>
   
 ## Redes Socias / Contatos
-  
 <div> 
  <a href="mailto:joaoarai11@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
