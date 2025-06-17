@@ -12,7 +12,6 @@
 <div>
 
   Sou um desenvolvedor Front-end com experiência na area de desenvovlimento web.
-  
   <br><br>
   Sou formado em Analise e desenvolvimento de software ,possuindo alguns certificados tecnicos na area. 
   <br><br>
